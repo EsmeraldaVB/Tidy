@@ -1,0 +1,484 @@
+"Date.Added","Category.1","Category.2","Sub.Category.1","Sub.Category.2","Role","Real.Name","Sentiment","Hashtags","Comments","Tweet.example.text","Tweet.example.link"
+NA,"Political Actors",NA,"Government",NA,NA,NA,NA,"#opposition",NA,NA,NA
+NA,"Political actors",NA,"Government",NA,NA,NA,NA,"#bureg",NA,NA,NA
+NA,"Political Actors",NA,"Government",NA,NA,NA,NA,"#bundesregierung",NA,NA,NA
+NA,"Political actors",NA,"Government",NA,NA,NA,NA,"#kanzleramt",NA,NA,NA
+NA,"Political Actors",NA,"Government",NA,NA,NA,NA,"#innenminister",NA,NA,NA
+NA,"Political actors",NA,"Government",NA,NA,NA,NA,"#innenministerin",NA,NA,NA
+NA,"Political Actors",NA,"Government",NA,NA,NA,NA,"#aussenminister",NA,NA,NA
+NA,"Political actors",NA,"Government",NA,NA,NA,NA,"#aussenministerin",NA,NA,NA
+NA,"Political Actors",NA,"Government",NA,NA,NA,NA,"#außenminister",NA,NA,NA
+NA,"Political actors",NA,"Government",NA,NA,NA,NA,"#außenministerin",NA,NA,NA
+NA,"Political Actors",NA,"Government",NA,NA,NA,NA,"#umweltminister",NA,NA,NA
+NA,"Political actors",NA,"Government",NA,NA,NA,NA,"#umweltministerin",NA,NA,NA
+NA,"Political Actors",NA,"Government",NA,NA,NA,NA,"#digitalminister",NA,NA,NA
+NA,"Political actors",NA,"Government",NA,NA,NA,NA,"#digitalministerin",NA,NA,NA
+NA,"Political Actors",NA,"Government",NA,NA,NA,NA,"#finanzminister",NA,NA,NA
+NA,"Political actors",NA,"Government",NA,NA,NA,NA,"#finanzministerin",NA,NA,NA
+NA,"Political Actors",NA,"Government",NA,NA,NA,NA,"#gesundheitsminister",NA,NA,NA
+NA,"Political actors",NA,"Government",NA,NA,NA,NA,"#gesundheitsministerin",NA,NA,NA
+NA,"Political Actors",NA,"Government",NA,NA,NA,NA,"#verkehrsminister",NA,NA,NA
+NA,"Political actors",NA,"Government",NA,NA,NA,NA,"#verkehrsministerin",NA,NA,NA
+NA,"Political Actors",NA,"Government",NA,NA,NA,NA,"#entwicklungsminister",NA,NA,NA
+NA,"Political actors",NA,"Government",NA,NA,NA,NA,"#entwicklungsministerin",NA,NA,NA
+NA,"Political Actors",NA,"Government",NA,NA,NA,NA,"#bildungsminister",NA,NA,NA
+NA,"Political actors",NA,"Government",NA,NA,NA,NA,"#bildungsministerin",NA,NA,NA
+NA,"Political Actors",NA,"Government",NA,NA,NA,NA,"#landwirtschaftsminister",NA,NA,NA
+NA,"Political actors",NA,"Government",NA,NA,NA,NA,"#landwirtschaftsministerin",NA,NA,NA
+NA,"Political Actors",NA,"Government",NA,NA,NA,NA,"#wirtschaftsminister",NA,NA,NA
+NA,"Political actors",NA,"Government",NA,NA,NA,NA,"#wirtschaftsministerin",NA,NA,NA
+NA,"Political Actors",NA,"Government",NA,NA,NA,NA,"#arbeitsminister",NA,NA,NA
+NA,"Political actors",NA,"Government",NA,NA,NA,NA,"#arbeitsministerin",NA,NA,NA
+NA,"Political Actors",NA,"Government",NA,NA,NA,NA,"#familienminister",NA,NA,NA
+NA,"Political actors",NA,"Government",NA,NA,NA,NA,"#familienministerin",NA,NA,NA
+NA,"Political Actors",NA,"Chancelor",NA,NA,NA,NA,"#Kanzler",NA,NA,NA
+NA,"Political Actors",NA,"Chancelor",NA,NA,NA,NA,"#Kanzlerin",NA,NA,NA
+NA,"Political Actors",NA,"Chancelor",NA,NA,NA,NA,"#bundeskanzler",NA,NA,NA
+NA,"Political Actors",NA,"Chancelor",NA,NA,NA,NA,"#bundeskanzlerin",NA,NA,NA
+NA,"Political Actors",NA,"Chancelor",NA,NA,NA,NA,"#kanzlerkandidatur",NA,NA,NA
+NA,"Political Actors",NA,"Chancelor",NA,NA,NA,NA,"#bundeskanzlerkandidatur",NA,NA,NA
+NA,"Political Actors",NA,"Chancelor",NA,NA,NA,NA,"#bundeskanzlerkandidat",NA,NA,NA
+NA,"Political Actors",NA,"Chancelor",NA,NA,NA,NA,"#bundeskanzlerkandidatin",NA,NA,NA
+NA,"Political Actors",NA,"Chancelor",NA,NA,NA,NA,"#kanzlerkandidat",NA,NA,NA
+NA,"Political Actors",NA,"Chancelor",NA,NA,NA,NA,"#kanzlerkandidatin",NA,NA,NA
+NA,"Election",NA,"Election general",NA,NA,NA,NA,"#btw2021",NA,NA,NA
+NA,"Election",NA,"Election general",NA,NA,NA,NA,"#btw21",NA,NA,NA
+NA,"Election",NA,"Election general",NA,NA,NA,NA,"#wahl21",NA,NA,NA
+NA,"Election",NA,"Election general",NA,NA,NA,NA,"#wahlen2021",NA,NA,NA
+NA,"Election",NA,"Election general",NA,NA,NA,NA,"#bundestagswahl2021",NA,NA,NA
+NA,"Election",NA,"Election general",NA,NA,NA,NA,"#bundestagswahl21",NA,NA,NA
+NA,"Election",NA,"Election general",NA,NA,NA,NA,"#wahl",NA,NA,NA
+NA,"Election",NA,"Election general",NA,NA,NA,NA,"#bundestagswahl",NA,NA,NA
+NA,"Election",NA,"Election general",NA,NA,NA,NA,"#superwahljahr",NA,NA,NA
+NA,"Election",NA,"Election general",NA,NA,NA,NA,"#btw21fakten",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,NA,"#koalitionsvertrag ",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,NA,"#koalitionsrechner",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,NA,"#grossekoalition",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,NA,"#großekoalition",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,NA,"#groko",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,NA,"#jamaikakoalition",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,NA,"#ampelkoalition",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,NA,"#rotrotgrün",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,NA,"#rotrotgruen",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,NA,"#gruenrotrot",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,NA,"#grünrotrot",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,NA,"#grünschwarz",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,NA,"#gruenscharz",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,NA,"#schwarzgrün",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,NA,"#schwarzgruen",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,NA,"#g2r",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,NA,"#r2g",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,"negative","#r2gunwählbar",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,NA,"#wechselstimmung",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,NA,"#wergewinntdiewahl",NA,NA,NA
+NA,"Election",NA,"Election outcome",NA,NA,NA,NA,"#stimmenauszählung",NA,NA,NA
+NA,"Election",NA,"Election campaign",NA,NA,NA,NA,"#wahlkampf",NA,NA,NA
+NA,"Election",NA,"Election campaign",NA,NA,NA,NA,"#wahlwerbung",NA,NA,NA
+NA,"Election",NA,"Election campaign",NA,NA,NA,NA,"#wahlplakat",NA,NA,NA
+NA,"Election",NA,"Election campaign",NA,NA,NA,NA,"#wahlflyer",NA,NA,NA
+NA,"Election",NA,"Election campaign",NA,NA,NA,NA,"#wahlstand",NA,NA,NA
+NA,"Election",NA,"Election campaign",NA,NA,NA,NA,"#briefwahl",NA,NA,NA
+NA,"Election",NA,"Election campaign",NA,NA,NA,NA,"#wahlprogramme",NA,NA,NA
+NA,"Election",NA,"Election campaign",NA,NA,NA,NA,"#wahlprogramm",NA,NA,NA
+NA,"Election",NA,"Election action",NA,NA,NA,NA,"#augenaufbeimkreuzchenmachen ",NA,NA,NA
+NA,"Election",NA,"Election action",NA,NA,NA,NA,"#wählen",NA,NA,NA
+NA,"Election",NA,"Election action",NA,NA,NA,NA,"#waehlen",NA,NA,NA
+NA,"Election",NA,"Election action",NA,NA,NA,NA,"#wählengehen",NA,NA,NA
+NA,"Election",NA,"Election action",NA,NA,NA,NA,"#waehlengehen",NA,NA,NA
+NA,"Election",NA,"Election action",NA,NA,NA,NA,"#muslimewaehlendeutschland",NA,NA,NA
+NA,"Election",NA,"Election action",NA,NA,NA,NA,"#ichwaehleduauch",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#ichwähleduauch",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#wahlfälschung",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#wahlbetrug",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#wahlalter16",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#kandidatenliste",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#kandidatenlisten",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#landesliste",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#landeslisten",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#direkmandat",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#direktmandate",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#erststimme",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#zweitstimme",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#zweitstimmenanteil",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#bundeswahlleiter",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#wahlparty",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#spitzenkandidat",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#spitzenkandidaten",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#spitzenkandidatin",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#spitzenkandidatinnen",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#wahlhelferinnen",NA,NA,NA
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#wahlhelfer",NA,"#Wahlhelfer gesucht! Wahlurne mit StimmzettelFür die #Bundestagswahl suchen wir in #Kaiserslautern noch Mitarbeitende für den Wahlvorstand. Mehr Infos und Kontakt Pfeil nach rechtshttps://kaiserslautern.de/buerger_rathaus_politik/medienportal/pressemitteilungen/061536/index.html.de… Telefon0631 365-1125 E-Mail Symbolwahlen@kaiserslautern.de","https://twitter.com/StadtKL/status/1412714209364824073"
+NA,"Election",NA,"Election process",NA,NA,NA,NA,"#kandidateneffekt",NA,NA,NA
+NA,"Election",NA,"Debate",NA,NA,NA,NA,"#tvduell",NA,NA,NA
+NA,"Election",NA,"Debate",NA,NA,NA,NA,"#kanzlerduell",NA,NA,NA
+NA,"Election",NA,"Debate",NA,NA,NA,NA,"#elefantenrunde",NA,NA,NA
+NA,"Political Actors",NA,"CDU","CSU","leader, candidate","Armin Laschet",NA,"#laschet",NA,NA,NA
+NA,"Political Actors",NA,"CDU","CSU","leader, candidate","Armin Laschet",NA,"#arminlaschet",NA,NA,NA
+NA,"Political Actors",NA,"CDU","CSU","leader, candidate","Armin Laschet",NA,"#laschetpolitik",NA,NA,NA
+NA,"Political Actors",NA,"CDU","CSU","leader, candidate","Armin Laschet","negative","#laschetverhindern ",NA,NA,NA
+NA,"Political Actors",NA,"CDU","CSU","leader, candidate","Armin Laschet","negative","#arminlasses",NA,NA,NA
+NA,"Political Actors",NA,"CDU","CSU","leader, candidate","Armin Laschet","negative","#kohlearmin",NA,NA,NA
+NA,"Political Actors",NA,"CDU","CSU","leader, candidate","Armin Laschet","negative","#laschetvernichtetarbeitsplätze",NA,NA,NA
+NA,"Political Actors",NA,"CDU","CSU","leader, candidate","Armin Laschet","negative","#allegegenlaschet",NA,NA,NA
+NA,"Political Actors",NA,"CDU","CSU","leader, candidate","Armin Laschet","negative","#laschetsein",NA,NA,NA
+NA,"Political Actors",NA,"CDU","CSU","leader, candidate","Armin Laschet","negative","#virusarmin",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"former chancellor","Angela Merkel",NA,"#merkel",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"former chancellor","Angela Merkel",NA,"#angelamerkel",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"former chancellor","Angela Merkel","negative","#merkelmussweg",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"former chancellor","Angela Merkel",NA,"#mutti",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"leader parliamentary group","Ralph Brinkhaus",NA,"#ralphbrinkhaus",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"leader parliamentary group","Ralph Brinkhaus",NA,"#brinkhaus",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"secretary general","Paul Ziemiak",NA,"#paulziemiak",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"secretary general","Paul Ziemiak",NA,"#ziemiak",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"defense minister","Anngret Kramp-Karrenbauer",NA,"#annegretkramp-karrenbauer",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"defense minister","Anngret Kramp-Karrenbauer",NA,"#kramp-karrenbauer",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"defense minister","Anngret Kramp-Karrenbauer",NA,"#krampkarrenbauer",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"defense minister","Anngret Kramp-Karrenbauer",NA,"#akk",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"employment minister","Peter Altmair",NA,"#peteraltmair",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"employment minister","Peter Altmair",NA,"#altmaier",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"former defense minister","Ursula von der Leyer",NA,"#ursulavonderleyen",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"former defense minister","Ursula von der Leyer",NA,"#vonderleyen",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"agriculture minister","Julia Klöckner",NA,"#klöckner",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"agriculture minister","Julia Klöckner",NA,"#kloeckner",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"agriculture minister","Julia Klöckner",NA,"#juliaklöckner",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"agriculture minister","Julia Klöckner",NA,"#juliakloeckner",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"health minister","Jens Spahn",NA,"#jensspahn",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"health minister","Jens Spahn",NA,"#spahn",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"health minister","Jens Spahn",NA,"#spahnjens",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"education minister","Anja Karliczek",NA,"#anjakarliczek",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"education minister","Anja Karliczek",NA,"#karliczek",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"governor hessen","Volker Bouffier",NA,"#volkerbouffier",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"governor hessen","Volker Bouffier",NA,"#bouffier",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"governor saarland","Tobias Hans",NA,"#tobiashans",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"governor sachsen","Michael Kretschmer",NA,"#michaelkretschmer",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"governor sachsen","Michael Kretschmer",NA,"#kretschmer",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"governor sachsen-anhalt","Reiner Haseloff",NA,"#reinerhaseloff",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"governor sachsen-anhalt","Reiner Haseloff",NA,"#haseloff",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"governor schleswig-holstein","Daniel Günther",NA,"#danielgünther",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"governor schleswig-holstein","Daniel Günther",NA,"#danielguenther",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"other","Hans-Georg Maaßen",NA,"#hansgeorgmaaßen",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"other","Hans-Georg Maaßen",NA,"#maassen",NA,NA,NA
+NA,"Political Actors",NA,"CDU",NA,"other","Friedrich Merz","negative","#merzverhindern",NA,NA,NA
+NA,"Political Actors",NA,"CSU",NA,"leader","Markus Söder",NA,"#markussöder",NA,NA,NA
+NA,"Political Actors",NA,"CSU",NA,"leader","Markus Söder",NA,"#söder",NA,NA,NA
+NA,"Political Actors",NA,"CSU",NA,"leader","Markus Söder",NA,"#markussoeder",NA,NA,NA
+NA,"Political Actors",NA,"CSU",NA,"leader","Markus Söder",NA,"#soeder",NA,NA,NA
+NA,"Political Actors",NA,"CSU",NA,"leader CSU group ","Alexander Dobrindt",NA,"#alexanderdobrindt",NA,NA,NA
+NA,"Political Actors",NA,"CSU",NA,"leader CSU group ","Alexander Dobrindt",NA,"#dobrindt",NA,NA,NA
+NA,"Political Actors",NA,"CSU",NA,"secretary general","Markus Blume",NA,"#markusblume",NA,NA,NA
+NA,"Political Actors",NA,"CSU",NA,"interior minister","Horst Seehofer",NA,"#horstseehofer",NA,NA,NA
+NA,"Political Actors",NA,"CSU",NA,"interior minister","Horst Seehofer",NA,"#seehofer",NA,NA,NA
+NA,"Political Actors",NA,"CSU",NA,"transportation minister","Andreas Scheuer",NA,"#andreasscheuer",NA,NA,NA
+NA,"Political Actors",NA,"CSU",NA,"transportation minister","Andreas Scheuer",NA,"#scheuer",NA,NA,NA
+NA,"Political Actors",NA,"CSU",NA,"transportation minister","Andreas Scheuer",NA,"#scheuerandi",NA,NA,NA
+NA,"Political Actors",NA,"CSU",NA,"development minister","Gerd Müller",NA,"#gerdmüller",NA,NA,NA
+NA,"Political Actors",NA,"CSU",NA,"development minister","Gerd Müller",NA,"#gerdmueller",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"leader, candidate","Olaf Scholz",NA,"#olafscholz",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"leader, candidate","Scholz ",NA,"#scholz",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"leader","Saskia Esken",NA,"#saskiaesken",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"leader","Saskia Esken",NA,"#esken",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"leader","Norbert Walter-Borjans",NA,"#norbertwalter-borjans",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"leader","Norbert Walter-Borjans",NA,"#norbertwalterborjans",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"leader","Norbert Walter-Borjans",NA,"#walter-borjans",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"leader","Norbert Walter-Borjans",NA,"#walterborjans",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"secretary general","Lars Klingbeil",NA,"#larsklingbeil",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"secretary general","Lars Klingbeil",NA,"#klingbeil",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"leader parliamentary group","Rolf Mützenich",NA,"#rolfmützenich",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"leader parliamentary group","Rolf Mützenich",NA,"#rolfmuetzenich",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"leader parliamentary group","Rolf Mützenich",NA,"#mützenich",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"leader parliamentary group","Rolf Mützenich",NA,"#muetzenich",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"foreign minister","Heiko Maas",NA,"#heikomaas",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"foreign minister","Heiko Maas",NA,"#maas",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"foreign minister","Heiko Maas",NA,"#maasvoll",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"former justice minister","Katarina Barley",NA,"#katarinabarley",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"former justice minister","Katarina Barley",NA,"#barley",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"justice minister, family minister","Christine Lambrecht",NA,"#christinelambrecht",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"justice minister, family minister","Christine Lambrecht",NA,"#lambrecht",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"employment minister","Hubertusheil",NA,"#hubertusheil",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"former family minister","Franziska Giffey",NA,"#franziskagiffey",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"former family minister","Franziska Giffey",NA,"#giffey",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"environment minister","Svenja Schulze",NA,"#svenjaschulze",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"governor berlin","Michael Müller",NA,"#michaelmüller",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"governor berlin","Michael Müller",NA,"#michaelmueller",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"governor brandenburg","Dietmar Woidke",NA,"#dietmarwoidke",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"governor brandenburg","Dietmar Woidke",NA,"#woidke",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"governor bremen","Andreas Bovenschulte",NA,"#andreasbovenschulte",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"governor bremen","Andreas Bovenschulte",NA,"#bovenschulte",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"governor hamburg","Peter Tschentscher",NA,"#petertschentscher",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"governor hamburg","Peter Tschentscher",NA,"#tschentscher",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"governor m-v","Manuela Schwesig",NA,"#manuelaschwesig",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"governor m-v","Manuela Schwesig",NA,"#schwesig",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"governor niedersachsen","Stephan Weil",NA,"#stephanweil",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"governor rheinland-pfalz","Malu Dreyer",NA,"#maludreyer",NA,NA,NA
+NA,"Political Actors",NA,"SPD",NA,"governor rheinland-pfalz","Malu Dreyer",NA,"#dreyer",NA,NA,NA
+NA,"Political Actors",NA,"FDP",NA,"leader, candidate, parliamentary group","Christian Lindner",NA,"#christianlindner",NA,NA,NA
+NA,"Political Actors",NA,"FDP",NA,"leader, candidate, parliamentary group","Christian Lindner",NA,"#lindner",NA,NA,NA
+NA,"Political Actors",NA,"FDP",NA,"secretary general","Volker Wissing",NA,"#volkerwissing",NA,NA,NA
+NA,"Political Actors",NA,"FDP",NA,"secretary general","Volker Wissing",NA,"#wissing",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"leader, candidate","Annalena Baerbock",NA,"#annalenabaerbock",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"leader, candidate","Annalena Baerbock",NA,"#baerbock",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"leader, candidate","Annalena Baerbock","positive","#baerbockforkanzlerin",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"leader, candidate","Annalena Baerbock","positive","#baerbockzug",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"leader, candidate","Annalena Baerbock","negative","#baerplag",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"leader, candidate","Annalena Baerbock","negative","#baerbockplag",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"leader, candidate","Annalena Baerbock","negative","#baerplug",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"leader, candidate","Annalena Baerbock","negative","#baerbockfail",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"leader, candidate","Annalena Baerbock","negative","#baerbockfails",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"leader, candidate","Annalena Baerbock","negative","#baerbockmist",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"leader, candidate","Annalena Baerbock","negative","#baerbockverhindern",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"leader, candidate","Annalena Baerbock","negative","#baerbockgate",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"leader, candidate","Annalena Baerbock","negative","#verbaerbockt",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"leader","Robert Habeck",NA,"#roberthabeck",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"leader","Robert Habeck",NA,"#habeck",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"parliamentary group","Katrin Göring-Eckardt",NA,"#katringöring-eckardt",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"parliamentary group","Katrin Göring-Eckardt",NA,"#katringöringeckardt",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"parliamentary group","Katrin Göring-Eckardt",NA,"#katringoering-eckardt",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"parliamentary group","Katrin Göring-Eckardt",NA,"#katringoeringeckardt",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"parliamentary group","Katrin Göring-Eckardt",NA,"#göring-eckardt",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"parliamentary group","Katrin Göring-Eckardt",NA,"#goering-eckardt",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"parliamentary group","Katrin Göring-Eckardt",NA,"#göringeckardt",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"parliamentary group","Katrin Göring-Eckardt",NA,"#goeringeckardt",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"parliamentary group","Anton Hofreiter",NA,"#antonhofreiter",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"parliamentary group","Anton Hofreiter",NA,"#hofreiter",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"secretary general","Michael Kellner",NA,"#michaelkellner",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"governor baden-württemberg","Winfried Kretschmann",NA,"#winfriedkretschmann",NA,NA,NA
+NA,"Political Actors",NA,"Bündnis 90/Die Grünen",NA,"governor baden-württemberg","Winfried Kretschmann",NA,"#kretschmann",NA,NA,NA
+NA,"Political Actors",NA,"AfD",NA,"leader, candidate","Tino Chrupalla",NA,"#tinochrupalla",NA,NA,NA
+NA,"Political Actors",NA,"AfD",NA,"leader, candidate","Tino Chrupalla",NA,"#chrupalla",NA,NA,NA
+NA,"Political Actors",NA,"AfD",NA,"candidate, parliamentary group","Alice Weidel",NA,"#aliceweidel",NA,NA,NA
+NA,"Political Actors",NA,"AfD",NA,"candidate, parliamentary group","Alice Weidel",NA,"#weidel",NA,NA,NA
+NA,"Political Actors",NA,"AfD",NA,"leader","Jörg Meuthen",NA,"#jörgmeuthen",NA,NA,NA
+NA,"Political Actors",NA,"AfD",NA,"leader","Jörg Meuthen",NA,"#joergmeuthen",NA,NA,NA
+NA,"Political Actors",NA,"AfD",NA,"leader","Jörg Meuthen",NA,"#meuthen",NA,NA,NA
+NA,"Political Actors",NA,"AfD",NA,"parliamentary group","Alexander Gauland",NA,"#alexandergauland",NA,NA,NA
+NA,"Political Actors",NA,"AfD",NA,"parliamentary group","Alexander Gauland",NA,"#gauland",NA,NA,NA
+NA,"Political Actors",NA,"Die Linke",NA,"leader, candidate","Janine Wissler",NA,"#janinewissler",NA,NA,NA
+NA,"Political Actors",NA,"Die Linke",NA,"leader, candidate","Janine Wissler",NA,"#wissler",NA,NA,NA
+NA,"Political Actors",NA,"Die Linke",NA,"candidate","Dietmar Bartsch",NA,"#dietmarbartsch",NA,NA,NA
+NA,"Political Actors",NA,"Die Linke",NA,"candidate","Dietmar Bartsch",NA,"#bartsch",NA,NA,NA
+NA,"Political Actors",NA,"Die Linke",NA,"leader","Susanne Hennig-Wellsow",NA,"#susannehennig-wellsow",NA,NA,NA
+NA,"Political Actors",NA,"Die Linke",NA,"leader","Susanne Hennig-Wellsow",NA,"#susannehennigwellsow",NA,NA,NA
+NA,"Political Actors",NA,"Die Linke",NA,"leader","Susanne Hennig-Wellsow",NA,"#hennig-wellsow",NA,NA,NA
+NA,"Political Actors",NA,"Die Linke",NA,"leader","Susanne Hennig-Wellsow",NA,"#hennigwellsow",NA,NA,NA
+NA,"Political Actors",NA,"Die Linke",NA,"governor thüringen","Bodo Ramelow",NA,"#bodoramelow",NA,NA,NA
+NA,"Political Actors",NA,"Die Linke",NA,"governor thüringen","Bodo Ramelow",NA,"#ramelow",NA,NA,NA
+NA,"Parties",NA,"CDU",NA,NA,NA,NA,"#cdu",NA,NA,NA
+NA,"Parties",NA,"CDU",NA,NA,NA,NA,"#christdemokraten",NA,NA,NA
+NA,"Parties",NA,"CDU",NA,NA,NA,NA,"#christdemokrat",NA,NA,NA
+NA,"Parties",NA,"CDU",NA,NA,NA,"negative","#cdukorruption",NA,"Spähnchen Schlau ist ein element des #Lobbyismus bzw. der #CDUKorruption (Hastag recycled aber passt halt)... d.h. wenn der Typ weg ist, kommt ein anderer der das Selbe macht. #ePA soll Zwang werden, Lobbyismus & ""Wissenschaft"" im Schulterschluss gegen UNabh. Menschen ","https://twitter.com/AnkaruG/status/1414588614579834886"
+NA,"Parties",NA,"CDU",NA,NA,NA,"negative","#korruptioncdu",NA,NA,NA
+NA,"Parties",NA,"CDU",NA,NA,NA,"negative","#cdurausausderregierung",NA,NA,NA
+NA,"Parties",NA,"CDU",NA,NA,NA,"negative","#fckcdu",NA,NA,NA
+NA,"Parties",NA,"CDU",NA,NA,NA,"negative","#cduunter20prozent",NA,NA,NA
+NA,"Parties",NA,"CDU",NA,NA,NA,"negative","#schwarzerfilz",NA,NA,NA
+NA,"Parties",NA,"CSU",NA,NA,NA,NA,"#csu",NA,NA,NA
+NA,"Parties",NA,"CDU","CSU",NA,NA,NA,"#union",NA,NA,NA
+NA,"Parties",NA,"CDU","CSU",NA,NA,NA,"#deutschlandgemeinsammachen",NA,NA,NA
+NA,"Parties",NA,"CDU","CSU",NA,NA,NA,"#cducsu",NA,NA,NA
+NA,"Parties",NA,"CDU","CSU",NA,NA,NA,"#werteunion",NA,NA,NA
+NA,"Parties",NA,"CDU","CSU",NA,NA,"negative","#niemehrcducsu",NA,NA,NA
+NA,"Parties",NA,"SPD",NA,NA,NA,NA,"#spd",NA,NA,NA
+NA,"Parties",NA,"SPD",NA,NA,NA,NA,"#sozialdemokraten",NA,NA,NA
+NA,"Parties",NA,"SPD",NA,NA,NA,NA,"#sozialdemokrat",NA,NA,NA
+NA,"Parties",NA,"SPD",NA,NA,NA,NA,"#sozialepolitikfuerdich",NA,NA,NA
+NA,"Parties",NA,"SPD",NA,NA,NA,"negative","#niewiederspd",NA,NA,NA
+NA,"Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,NA,"#diegrünen",NA,NA,NA
+NA,"Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,NA,"#diegruenen",NA,NA,NA
+NA,"Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,NA,"#grünen",NA,NA,NA
+NA,"Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,NA,"#gruenen",NA,NA,NA
+NA,"Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,NA,"#grüne",NA,NA,NA
+NA,"Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,NA,"#gruene",NA,NA,NA
+NA,"Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,NA,"""#grün*innen""",NA,NA,NA
+NA,"Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,NA,"""#guen*innen""",NA,NA,NA
+NA,"Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,NA,"#bündnisgrüne",NA,NA,NA
+NA,"Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,NA,"#buendnisgruene",NA,NA,NA
+NA,"Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,NA,"#mitdir",NA,NA,NA
+NA,"Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,NA,"#gruenejugend",NA,NA,NA
+NA,"Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,"positive","#5stimmengrün",NA,NA,NA
+NA,"Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,"positive","#wahlkampffürdiegrünen",NA,NA,NA
+NA,"Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,"negative","#grueneverhindern",NA,NA,NA
+NA,"Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,"negative","#verbotspartei",NA,NA,NA
+NA,"Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,"negative","#verbotspolitik",NA,NA,NA
+NA,"Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,"negative","#träumerpartei",NA,NA,NA
+NA,"Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,"negative","#diegrünenunwählbar",NA,NA,NA
+NA,"Parties",NA,"FDP",NA,NA,NA,NA,"#fdp",NA,NA,NA
+NA,"Parties",NA,"FDP",NA,NA,NA,NA,"#freiedemokraten",NA,NA,NA
+NA,"Parties",NA,"FDP",NA,NA,NA,NA,"#dieliberalen",NA,NA,NA
+NA,"Parties",NA,"FDP",NA,NA,NA,NA,"#vielzutun",NA,NA,NA
+NA,"Parties",NA,"FDP",NA,NA,NA,NA,"#viergutejahre",NA,NA,NA
+NA,"Parties",NA,"FDP",NA,NA,NA,"negative","#niemandbrauchtdiefdp",NA,NA,NA
+NA,"Parties",NA,"FDP",NA,NA,NA,NA,"#niemehrfdp",NA,NA,NA
+NA,"Parties",NA,"AfD",NA,NA,NA,NA,"#afd",NA,NA,NA
+NA,"Parties",NA,"AfD",NA,NA,NA,NA,"#alternativefürdeutschland",NA,NA,NA
+NA,"Parties",NA,"AfD",NA,NA,NA,NA,"#alternativefuerdeutschland",NA,NA,NA
+NA,"Parties",NA,"AfD",NA,NA,NA,NA,"#deutschlandabernormal",NA,NA,NA
+NA,"Parties",NA,"AfD",NA,NA,NA,NA,"#afdimbundestag",NA,NA,NA
+NA,"Parties",NA,"AfD",NA,NA,NA,"positive","#afdwirkt",NA,NA,NA
+NA,"Parties",NA,"AfD",NA,NA,NA,NA,"#mutzudeutschland",NA,NA,NA
+NA,"Parties",NA,"AfD",NA,NA,NA,"negative","#noafd",NA,NA,NA
+NA,"Parties",NA,"AfD",NA,NA,NA,"negative","#afdrausausdenparlamenten",NA,NA,NA
+NA,"Parties",NA,"AfD",NA,NA,NA,"negative","#fckafd",NA,NA,NA
+NA,"Parties",NA,"AfD",NA,NA,NA,"negative","#afdbeobachtungjetzt",NA,NA,NA
+NA,"Parties",NA,"AfD",NA,NA,NA,"negative","#afdverfassungsfeindlich",NA,NA,NA
+NA,"Parties",NA,"Die Linke",NA,NA,NA,NA,"#dielinke",NA,NA,NA
+NA,"Parties",NA,"Die Linke",NA,NA,NA,NA,"#linkspartei",NA,NA,NA
+NA,"Parties",NA,"Die Linke",NA,NA,NA,NA,"#sozialklimagerecht",NA,NA,NA
+NA,"Parties",NA,"Die Linke",NA,NA,NA,NA,"#machtdaslandgerecht",NA,NA,NA
+NA,"Parties",NA,"Die Linke",NA,NA,NA,"positive","#besserdielinke",NA,NA,NA
+NA,"Parties",NA,"Die Linke",NA,NA,NA,"positive","#linkswirkt",NA,NA,NA
+"12.07.2021","Election",NA,"Election general",NA,NA,NA,NA,"#bundeswahlausschuss",NA,"#Bundeswahlausschuss entscheidet: „Piratenpartei Deutschland“ ist als Partei zur #btw21 anerkannt.","https://twitter.com/Wahlleiter_Bund/status/1413401312365092865"
+"12.07.2021","Parties",NA,"FDP",NA,NA,NA,NA,"#denkenwirneu",NA,"So darf ein Tag beginnen. Nur noch 0,5% bis zur psychologisch wichtigen Zweistelligkeit. #SPD, wir kommen! #fdp #denkenwirneu #insa","https://twitter.com/IchBinIronman/status/1216971051630055424"
+"12.07.2021","Election",NA,"Election Process",NA,NA,NA,NA,"#koalitionsaussage",NA,"#DenkenWirNeu: Wir werden ohne #Koalitionsaussage in die Bundestagswahl gehen. #BTW17 #btw","https://twitter.com/fdp/status/884326656449679361"
+"12.07.2021","Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,"negative","#baerbockjetzterstrecht",NA,"Lasst uns endlich über Inhalte reden. #BaerbockJetztErstRecht","https://twitter.com/MaxLinke_/status/1411970295238377476"
+"12.07.2021","Parties",NA,"Bündnis 90/Die Grünen",NA,NA,NA,NA,"#grünewelle",NA,"Was sind das nur für Trolle unter grünen Tweets? Alles Millionäre? Finden die Entlastungen für sich nicht gut? Wie kann man was gegen sauber Luft, weniger Lärm, gesunde Nahrung, keine Tierquälerei etc. haben? Völlig sinnentleert diese Hater Grinsendes Gesicht mit lächelnden Augen#grüneWelle","https://twitter.com/h_odiug/status/1413082294244548616"
+"12.07.2021","Political Actors",NA,"CDU","CSU",NA,"Armin Laschet","negative","#laschetluegt",NA,"Laschet sagt er wolle die Klimaziele erreichen. Dafür wäre in NRW mind. eine Verdreifachung des Zubaus notwendig. Durch die neue gesetzliche Abstandsregel können jedoch 85% aller Windräder nicht erneuert werden. Klimaschutz durch Ausbremsen der Erneuerbaren. #LaschetLuegt","https://twitter.com/JGemassmer/status/1414533622510538756"
+"12.07.2021","Political Actors",NA,"CDU","CSU",NA,"Armin Laschet","negative","#laschetkneift",NA,"Laschet ist ein Wendehals und ein Blender. Er würde momentan alles versprechen, was Stimmen bringt. Leute, bitte tut mir den Gefallen und macht den nicht zum Kanzler. #LaschetLuegt #LaschetKneift #LaschetVerhindern","https://twitter.com/uzantoelmajenco/status/1414482413166727171"
+"13.07.2021","Political Actors",NA,"CDU","CSU",NA,NA,NA,"#jungeunion",NA,NA,NA
+"13.07.2021","Event",NA,NA,NA,NA,NA,NA,"#MSCdebate",NA,NA,NA
+"13.07.2021",NA,NA,NA,NA,NA,NA,"negative","#nazi",NA,NA,NA
+"13.07.2021",NA,NA,NA,NA,NA,NA,"ambivalent","#antifa",NA,NA,NA
+"13.07.2021",NA,NA,NA,NA,NA,NA,"negative","#wutbürger",NA,NA,NA
+"13.07.2021",NA,NA,NA,NA,NA,NA,"negative","#gutmensch",NA,NA,NA
+"13.07.2021",NA,NA,NA,NA,NA,NA,"negative","#ökö",NA,NA,NA
+"13.07.2021",NA,NA,NA,NA,NA,NA,NA,"#identitäre",NA,NA,NA
+"13.07.2021",NA,NA,NA,NA,NA,NA,NA,"#dritterweg",NA,NA,NA
+"13.07.2021",NA,NA,NA,NA,NA,NA,NA,"#IIIweg",NA,NA,NA
+"13.07.2021",NA,NA,NA,NA,NA,NA,"negative","#lügenpresse",NA,NA,NA
+"13.07.2021",NA,NA,NA,NA,NA,NA,NA,"#allefürsKlima",NA,NA,NA
+"13.07.2021",NA,NA,NA,NA,NA,NA,NA,"#Fridaysforfuture",NA,NA,NA
+"13.07.2021",NA,NA,NA,NA,NA,NA,NA,"#UproottheSystem","global action day by Fridays for Future on September 24, 2021",NA,NA
+"13.07.2021",NA,NA,NA,NA,NA,NA,NA,"#Kohleausstieg",NA,NA,NA
+"13.07.2021",NA,NA,NA,NA,NA,NA,NA,"#Klimakrise","already in Issue list (tab3)",NA,NA
+"21.07.2021",NA,NA,NA,NA,NA,NA,NA,"#Katastrophe",NA,NA,NA
+"21.07.2021",NA,NA,NA,NA,NA,NA,NA,"#Hochwasser",NA,NA,NA
+"21.07.2021",NA,NA,NA,NA,NA,NA,NA,"#Flutkatastrophe",NA,NA,NA
+"21.07.2021",NA,NA,NA,NA,NA,NA,NA,"#Laschetlacht","Chancellor candidate Armin Laschet laughing in the background of an interview with Steinmeier during a visit at a site hit by the flooding",NA,NA
+"21.07.2021","Culture&Sports",NA,NA,NA,NA,NA,NA,"#Olympia2020",NA,NA,NA
+"21.07.2021",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"?",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"?",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,"?",NA,NA,NA
